@@ -1,0 +1,19 @@
+    # Virtual environment
+    venv/
+    .venv/
+
+    # Compiled Python files
+    __pycache__/
+    *.pyc
+    *.pyd
+
+    # IDE-specific files
+    .idea/
+    .vscode/
+
+    # Log files
+    *.log
+
+    # Configuration files
+    .env
+    config.ini
